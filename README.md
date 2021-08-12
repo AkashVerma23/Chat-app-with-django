@@ -1,22 +1,3 @@
-<p align="center">
-  <p align="center">
-    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
-      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
-    </a>
-  </p>
-  <p align="center">
-    The Definitive Django Learning Platform.
-  </p>
-</p>
-
-# Django Channels Tutorial Series
-
-<p align="center">
-  <a href="https://youtu.be/uZgRbnIsgrA"><img src="https://github.com/justdjango/justchat/blob/master/thumbnail.png" width="290"></a>
-</p>
-
-This tutorial is for how to build a chat application with Django Channels. The tutorial series can be watched [here](https://youtu.be/Wv5jlmJs2sU)
-
 To run the backend, run:
 
 ```json
